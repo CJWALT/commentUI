@@ -1,0 +1,252 @@
+
+
+#wrapper{
+    position: relative;
+    display: flex;
+    background-image: conic-gradient(#7cb3cd9e, #7cb3cd9e, #b330a987, #b330a987, #ef9595, #ef9595, #f3d89b, #f3d89b);
+    flex-direction: column;
+    height: 900px;
+    width: 100%;
+    align-items: center;
+}
+
+.comment_box{
+    position: relative;
+    width: 50%;
+    padding: 35px;
+    background-color: #fff;
+    top: 140px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 4px 1px #a79b9b;    
+}
+#wrapper .comment_box .comment_cont1{
+position:relative;
+width:100%;
+margin-bottom:34px;
+
+}
+#wrapper .comment_box .comment_cont1 aside{
+
+    position: relative;
+    width: 8%;
+    height: 422px;
+    display: flex;
+    flex-direction: column;
+}
+
+#wrapper .comment_box .comment_cont1 aside .wrap{
+    width: 44%;
+    border-right: 2px solid #a79b9b;
+    height: 429px;
+    position: relative;
+    margin-top: 10px;
+}
+
+#wrapper .comment_box .comment_cont1 .content{
+   
+    float: right;
+    width: 90%;
+    margin-top: -420px;
+    
+}
+#wrapper .comment_box .comment_cont1 .content h5{
+    font-family:'mada', sans-serif;
+    font-size:18px;
+    font-weight:600;
+    margin-bottom:10px;
+
+
+}
+#wrapper .comment_box .comment_cont1 .content span{
+    font-family:'mada', sans-serif;
+    font-size:18px;
+    font-weight:300;
+        color:grey;
+}
+#wrapper .comment_box .comment_cont1 .content p{
+ line-height: 20px;
+ font-size:16px;
+ font-family: 'calibri', sans-serif;
+font-weight:300;
+margin-bottom:23px;
+}
+#wrapper .comment_box .comment_cont1 .content a{
+    text-decoration:none;
+    padding-right:19px;
+    font-family:'calibri', sans-serif;
+    font-weight:400;
+    color:black;
+}
+
+#wrapper .comment_box .comment_cont1 .comment_sub{
+ 
+    position: relative;
+    width: 89%;
+    float: right;
+    margin-top: -269px;
+
+}
+#wrapper .comment_box .comment_cont1 .comment_sub .aside2{
+    width: 8%;
+    position: relative;
+    height: 266px;
+}
+#wrapper .comment_box .comment_cont1 .comment_sub .aside2 .wrap2{
+    width: 50%;
+    position: relative;
+    height: 203px;
+    border-right: 2px solid #a79b9b;
+    margin-top: 10px;
+}
+
+#wrapper .comment_box .comment_cont1 .comment_sub .content_sub{
+    
+    position: relative;
+    width: 89%;
+    float: right;
+    margin-top: -266px;
+    
+  
+}
+
+#wrapper .comment_box .comment_cont1 .comment_sub .content_sub h5{
+
+    font-family:'mada', sans-serif;
+    font-size:18px;
+    font-weight:600;
+    margin-bottom:10px;
+}
+#wrapper .comment_box .comment_cont1 .comment_sub .content_sub h5 span{
+
+    font-family:'mada', sans-serif;
+    font-size:18px;
+    font-weight:300;
+    margin-bottom:10px;
+    color:grey;
+
+}
+#wrapper .comment_box .comment_cont1 .comment_sub .content_sub p{
+    font-family:'calibri', sans-serif;
+    font-size:16px; 
+    line-height:20px;
+    font-weight:300;
+    margin-bottom:23px;
+}
+
+#wrapper .comment_box .comment_cont1 .comment_sub .content_sub a{
+    text-decoration:none;
+    padding-right:19px;
+    font-family:'calibri', sans-serif;
+    font-weight:400;
+    color:black;   
+}
+#wrapper .comment_box .comment_cont1 .comment_rep{
+    position: relative;
+    width: 78%;
+    float: right;
+    margin-top: -122px;
+}
+#wrapper .comment_box .comment_cont1 .comment_rep .aside{
+    width: 10%;
+    position: relative;
+    height: 130px;
+}
+
+#wrapper .comment_box .comment_cont1 .comment_rep .wrap{
+
+    position: relative;
+    width: 50%;
+    margin-top: 10px;
+    height: 56px;
+    border-right: 1px solid #a79b9b;
+}
+#wrapper .comment_box .comment_cont1 .comment_rep .rep_sub{
+
+
+    float: right;
+    width: 86%;
+    position: relative;
+    margin-top: -120px;
+}
+#wrapper .comment_box .comment_cont1 .comment_rep h5{
+   
+    
+    font-family:'mada', sans-serif;
+    font-size:18px;
+    font-weight:600;
+    margin-bottom:10px;
+}
+
+#wrapper .comment_box .comment_cont1 .comment_rep span{
+ 
+    font-family:'mada', sans-serif;
+    font-size:18px;
+    font-weight:300;
+    margin-bottom:10px;
+    color:grey;
+}
+#wrapper .comment_box .comment_cont1 .comment_rep p{
+ 
+    font-family:'calibri', sans-serif;
+    font-size:16px; 
+    line-height:20px;
+    font-weight:300;
+    margin-bottom:23px;
+}
+#wrapper .comment_box .comment_cont1 .comment_rep a{
+    text-decoration:none;
+    padding-right:19px;
+    font-family:'calibri', sans-serif;
+    font-weight:400;
+    color:black;
+}
+
+#wrapper .comment_box .comment_cont2{
+    position: relative;
+    width: 100%;
+    
+}
+
+#wrapper .comment_box .comment_cont2 .aside3{
+    position: relative;
+    width: 8%;
+    height: 100px;
+}
+#wrapper .comment_box .comment_cont2 .wrap3{
+    border-right: 2px solid #a79b9b;
+    width: 40%;
+    height: 35px;
+    margin-top: 10px;
+}
+#wrapper .comment_box .comment_cont2 .comment2_cont{
+    float: right;
+    width: 89%;
+    margin-top: -94px;
+}
+#wrapper .comment_box .comment_cont2 .comment2_cont h5{
+    font-family:'mada', sans-serif;
+    font-size:18px;
+    font-weight:600;
+    margin-bottom:10px;   
+}
+#wrapper .comment_box .comment_cont2 .comment2_cont span{
+    font-family:'mada', sans-serif;
+    font-size:18px;
+    font-weight:300;
+    margin-bottom:10px;
+    color:grey;   
+}
+#wrapper .comment_box .comment_cont2 .comment2_cont p{
+    font-family:'calibri', sans-serif;
+    font-size:16px; 
+    line-height:20px;
+    font-weight:300;
+    margin-bottom:23px;  
+}
+#wrapper .comment_box .comment_cont2 .comment2_cont a{
+    text-decoration:none;
+    padding-right:19px;
+    font-family:'calibri', sans-serif;
+    font-weight:400;
+    color:black;   
+}
